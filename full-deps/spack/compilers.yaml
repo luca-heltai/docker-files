@@ -1,0 +1,10 @@
+compilers:
+- compiler:
+    modules: []
+    operating_system: Ubuntu14
+    paths:
+      cc: /usr/bin/clang
+      cxx: /usr/bin/clang
+      f77: /usr/bin/gfortran-4.8
+      fc: /usr/bin/gfortran-4.8
+    spec: clang@3.4

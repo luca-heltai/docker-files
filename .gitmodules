@@ -1,3 +1,6 @@
 [submodule "full-deps/candi/candi"]
 	path = full-deps/candi/candi
 	url = https://github.com/tjhei/candi.git
+[submodule "full-deps/spack/spack"]
+	path = full-deps/spack/spack
+	url = https://github.com/LLNL/spack.git
